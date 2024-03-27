@@ -1,0 +1,16 @@
+{
+  "name": "ts-exp",
+  "version": "1.0.0",
+  "description": "project to explore and experiment in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-node": "ts-node"
+  },
+  "author": "Anand",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
