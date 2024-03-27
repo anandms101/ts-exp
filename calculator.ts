@@ -3,6 +3,7 @@ interface MultiplyValues {
     value2: number;
 }
 
+
 const multiplier = (a: number, b: number, printText: string) => {
     console.log(printText, a * b);
 }
